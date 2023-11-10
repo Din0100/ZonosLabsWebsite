@@ -6,6 +6,6 @@ A landing page for a company that sold automation services
 
 This was one of my first big frontend projects, I created the website as well as the electron GUI displayed in it.
 
-Though the website is not available online anymore, you can access it through the wayback machine here:
+Though the website is not available online anymore, you can access it through the wayback machine here (Wait for it to fully load as wayback machine renders the JS slow):
 
 [Link](https://web.archive.org/web/20210821103148/https://zonoslabs.com/)
